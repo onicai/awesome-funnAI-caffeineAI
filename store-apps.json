@@ -19,6 +19,16 @@
             "creator_openchat": "@kevloui",
             "creator_x": "@MajesticLoui",
             "featured": true
+        },
+        {
+            "name": "FunnAI Mining Calculator",
+            "url": "https://funnai-mining-calculator-iyt.caffeine.xyz/",
+            "description": "FunnAI Mining Calculator helps you track your FunnAI token mining, compare mining vs. buying profitability, and predict outcomes for ICP or FUNNAI top-ups. Visualize historical price trends and optimize your mining strategy—all in a user-friendly, mobile-ready interface.",
+            "thumbnail": "https://res.cloudinary.com/dtgd3d2r8/image/upload/v1755130689/funnai_mining_calc_thumbnail_b6tmow.png",
+            "logo": "https://res.cloudinary.com/dtgd3d2r8/image/upload/v1755131187/funnai_mining_calc_logo_vgncbj.png",
+            "creator_openchat": "@perlandre",
+            "creator_x": "@perlandreTech",
+            "featured": true
         }
     ]
 
