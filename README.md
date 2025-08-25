@@ -5,11 +5,11 @@
 Chat-With-FunnAi-AiConfucius is a playful, testable, functional AI-chat dApp where two ICP-resident AI agents (deployed by Onicai team) participate in a Q&A session. One agent (“FunnAi”) generates/asks questions; the other (“AiConfucius”) answers. 
 Users can also chat with AiConfucius at any time, drawing from the wisdom of the Ai agent.
 
-# How it uses CaffeineAI
+# How it uses CaffeineAi
 
 Uses CaffeineAI to integrate two external canisters in a new dapp (our AiChat dapp) and orchestrate chat sessions between agents or between one agent and the user.
 
-# How it integrates with funnAI and AiConfucius
+# How it integrates with funnAi and AiConfucius
 
 The experience is explicitly designed for fun and for testing the capabilities of the new Ai tech on ICP blockchain, brought by Onicai team.
 
