@@ -21,6 +21,26 @@
             "featured": true
         },
         {
+            "name": "Chat With FunnAi & AiConfucius",
+            "url": "https://aiconfucius-w8i.caffeine.xyz/",
+            "description": "Got a burning question? Ready for a challenge? Chat with and get ready to have a blast with AiConfucius! Dive into deep conversations, tackle the latest FunnAI Challenges, and get wise, witty answers from the ultimate AI philosopher. It's time to play with purpose.",
+            "thumbnail": "https://drive.google.com/thumbnail?id=139GfNHh-a_oY1oi4UyEM-OiKrkEIsRiX",
+            "logo": "https://drive.google.com/thumbnail?id=139GfNHh-a_oY1oi4UyEM-OiKrkEIsRiX",
+            "creator_openchat": "@Skye_Terrier",
+            "creator_x": "@Skye__Terrier",
+            "featured": true
+        },
+        {
+            "name": "Tetric",
+            "url": "https://tetricp-ecd.caffeine.xyz/",
+            "description": "Fall into the timeless challenge of Tetris, now with a new twist! Drop, rotate, and clear lines (watch for funnAi and Caffeine Ai lines :) in a race with gravity. Connect with fellow players in the in-app chat to share strategies, celebrate victories, and master the blocks together.",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1BqTdHEW5e3iAinUsGLard4jijjJ1P-eG",
+            "logo": "https://drive.google.com/thumbnail?id=1BqTdHEW5e3iAinUsGLard4jijjJ1P-eG",
+            "creator_openchat": "@Skye_Terrier",
+            "creator_x": "@Skye__Terrier",
+            "featured": true
+        },
+        {
             "name": "Aira's Pandemonium",
             "url": "https://airaspandemonium-jmq.caffeine.xyz/",
             "description": "Aira's Pandemonium is a community-driven NFT game where players mint, stake, and care for digital parrots, earning NEST token rewards and participating in future FunnAI-powered competitions.",
@@ -29,9 +49,9 @@
             "creator_openchat": "@LazyDogeLovers",
             "creator_x": "@LazyDogeLovers",
             "featured": true
-        }, 
+        },
         {
-           "name": "Funnai Oracle Advisor",
+            "name": "Funnai Oracle Advisor",
             "url": "https://oracleadvisor-funnai-jwt.caffeine.xyz",
             "description": "Advanced AI-driven advisory tool with predictions and price alerts based on funnAI on-chain data. Built using CaffeineAI.",
             "thumbnail": "https://res.cloudinary.com/dv9bzxyga/image/upload/v1756585102/phoenix_icp_mrtrkb.png",
@@ -50,6 +70,7 @@
             "creator_x": "@Bavunda",
             "featured": true
         },
+        {
             "name": "🦜 Angry Aira 🪙 XTC Blaster",
             "url": "https://angry-aira-nyn.caffeine.xyz/",
             "description": "A 2D physics-based game inspired by Angry Birds where players launch XTC coins from a slingshot to destroy structures and defeat enemies. Features a complete game experience with menus, level progression, scoring system, and enhanced visual effects.",
@@ -59,6 +80,7 @@
             "creator_x": "@cryptodicted",
             "featured": true
         },
+        {
             "name": "FUNNAI Mint Status & Explorer",
             "url": "https://funnai-mint-z20.caffeine.xyz/",
             "description": "FUNNAI Mint Status & Explorer displays the minting activity of FUNNAI tokens over the past 6 hours, showing up to 250 mint transactions. Users can also search by Principal ID to check the latest FUNNAI token balance.",
