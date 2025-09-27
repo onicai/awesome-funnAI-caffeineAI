@@ -21,6 +21,15 @@
             "featured": true
         },
         {
+            "name": "FunnAI Mining Calculator",
+            "url": "https://funnai-mining-calculator-iyt.caffeine.xyz/",
+            "description": "FunnAI Mining Calculator helps you track your FunnAI token mining, compare mining vs. buying profitability, and predict outcomes for ICP or FUNNAI top-ups. Visualize historical price trends and optimize your mining strategy—all in a user-friendly, mobile-ready interface.",
+            "thumbnail": "https://res.cloudinary.com/dtgd3d2r8/image/upload/v1755130689/funnai_mining_calc_thumbnail_b6tmow.png",
+            "logo": "https://res.cloudinary.com/dtgd3d2r8/image/upload/v1755131187/funnai_mining_calc_logo_vgncbj.png",
+            "creator_openchat": "@perlandre",
+            "creator_x": "@perlandreTech",
+            "featured": false
+        },
             "name": "FunnAI-Club",
             "url": "https://funnaiclub-ur6.caffeine.xyz/",
             "description": "FunnAI Club: Vote on community-driven ideas to expand FunnAI utility. Lock your tokens for 90 days to earn exclusive membership badges and future airdrops. Inspirational caffeine-prototypes ideas for Onicai Team to develop fully functional features to expand Funnai Utility."
@@ -28,7 +37,7 @@
             "logo": "https://gqcu2-dyaaa-aaaad-abrkq-cai.raw.icp0.io/images/color-removed-opensource-1755465535596.png",
             "creator_openchat": " ",
             "creator_x": "@harutowang",
-            "featured": true
+            "featured": false
         },
         {
             "name": "FunnAI Game Nest",
@@ -38,7 +47,7 @@
             "logo": "https://nhgtj-4yaaa-aaaaa-qbzoq-cai.raw.icp0.io/uploads/Images/1756042220453-FUNNAI-GAME-NEST-LOGO.png",
             "creator_openchat": "@LazyDogeLovers",
             "creator_x": "@LazyDogeLovers",
-            "featured": true
+            "featured": false
         },
         {
             "name": "Chat With FunnAi & AiConfucius",
@@ -58,7 +67,7 @@
             "logo": "https://drive.google.com/thumbnail?id=1BqTdHEW5e3iAinUsGLard4jijjJ1P-eG",
             "creator_openchat": "@Skye_Terrier",
             "creator_x": "@Skye__Terrier",
-            "featured": true
+            "featured": false
         },
         {
             "name": "Aira's Pandemonium",
@@ -68,7 +77,7 @@
             "logo": "https://nhgtj-4yaaa-aaaaa-qbzoq-cai.raw.icp0.io/uploads/Images/1756325469450-Airas-Pandemonium.png",
             "creator_openchat": "@LazyDogeLovers",
             "creator_x": "@LazyDogeLovers",
-            "featured": true
+            "featured": false
         },
         {
             "name": "Funnai Oracle Advisor",
@@ -78,7 +87,7 @@
             "logo": "https://res.cloudinary.com/dv9bzxyga/image/upload/v1756585091/Oracle_aki3s5.png",
             "creator_openchat": "@phoenix_icp33",
             "creator_x": "@phoenix_icp",
-            "featured": true
+            "featured": false
         },
         {
             "name": "Flapp-AI",
@@ -88,7 +97,7 @@
             "logo": "https://drive.google.com/file/d/1lNuuhfY7hEenbQf56040SZwYKhCwIzLf/view?usp=sharing",
             "creator_openchat": "@bavier",
             "creator_x": "@Bavunda",
-            "featured": true
+            "featured": false
         },
         {
             "name": "🦜 Angry Aira 🪙 XTC Blaster",
@@ -98,7 +107,7 @@
             "logo": "https://i.ibb.co/B5NHW2r3/angry-aira-nyn-caffeine-xyz.png",
             "creator_openchat": "@cryptodicted",
             "creator_x": "@cryptodicted",
-            "featured": true
+            "featured": false
         },
         {
             "name": "FUNNAI Mint Status & Explorer",
