@@ -20,7 +20,7 @@
             "creator_x": "@MajesticLoui",
             "featured": true
         },
-             {
+        {
             "name": "FunnAI-Club",
             "url": "https://funnaiclub-ur6.caffeine.xyz/",
             "description": "FunnAI Club: Vote on community-driven ideas to expand FunnAI utility. Lock your tokens for 90 days to earn exclusive membership badges and future airdrops. Inspirational caffeine-prototypes ideas for Onicai Team to develop fully functional features to expand Funnai Utility."
@@ -29,7 +29,86 @@
             "creator_openchat": " ",
             "creator_x": "@harutowang",
             "featured": true
+        },
+        {
+            "name": "FunnAI Game Nest",
+            "url": "https://funnaigamenest-cnr.caffeine.xyz/",
+            "description": "A hub for FunnAI themed minigames where the community can interact and compete for prize pools. Built using CaffeineAI.",
+            "thumbnail": "https://nhgtj-4yaaa-aaaaa-qbzoq-cai.raw.icp0.io/uploads/Images/1755960527996-Airas-Coin-Hunt-Game.png",
+            "logo": "https://nhgtj-4yaaa-aaaaa-qbzoq-cai.raw.icp0.io/uploads/Images/1756042220453-FUNNAI-GAME-NEST-LOGO.png",
+            "creator_openchat": "@LazyDogeLovers",
+            "creator_x": "@LazyDogeLovers",
+            "featured": true
+        },
+        {
+            "name": "Chat With FunnAi & AiConfucius",
+            "url": "https://aiconfucius-w8i.caffeine.xyz/",
+            "description": "Got a burning question? Ready for a challenge? Chat with and get ready to have a blast with AiConfucius! Dive into deep conversations, tackle the latest FunnAI Challenges, and get wise, witty answers from the ultimate AI philosopher. It's time to play with purpose.",
+            "thumbnail": "https://drive.google.com/thumbnail?id=139GfNHh-a_oY1oi4UyEM-OiKrkEIsRiX",
+            "logo": "https://drive.google.com/thumbnail?id=139GfNHh-a_oY1oi4UyEM-OiKrkEIsRiX",
+            "creator_openchat": "@Skye_Terrier",
+            "creator_x": "@Skye__Terrier",
+            "featured": true
+        },
+        {
+            "name": "Tetric",
+            "url": "https://tetricp-ecd.caffeine.xyz/",
+            "description": "Fall into the timeless challenge of Tetris, now with a new twist! Drop, rotate, and clear lines (watch for funnAi and Caffeine Ai lines :) in a race with gravity. Connect with fellow players in the in-app chat to share strategies, celebrate victories, and master the blocks together.",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1BqTdHEW5e3iAinUsGLard4jijjJ1P-eG",
+            "logo": "https://drive.google.com/thumbnail?id=1BqTdHEW5e3iAinUsGLard4jijjJ1P-eG",
+            "creator_openchat": "@Skye_Terrier",
+            "creator_x": "@Skye__Terrier",
+            "featured": true
+        },
+        {
+            "name": "Aira's Pandemonium",
+            "url": "https://airaspandemonium-jmq.caffeine.xyz/",
+            "description": "Aira's Pandemonium is a community-driven NFT game where players mint, stake, and care for digital parrots, earning NEST token rewards and participating in future FunnAI-powered competitions.",
+            "thumbnail": "https://nhgtj-4yaaa-aaaaa-qbzoq-cai.raw.icp0.io/uploads/Images/1756342209179-Airas-Pandemonium.png",
+            "logo": "https://nhgtj-4yaaa-aaaaa-qbzoq-cai.raw.icp0.io/uploads/Images/1756325469450-Airas-Pandemonium.png",
+            "creator_openchat": "@LazyDogeLovers",
+            "creator_x": "@LazyDogeLovers",
+            "featured": true
+        },
+        {
+            "name": "Funnai Oracle Advisor",
+            "url": "https://oracleadvisor-funnai-jwt.caffeine.xyz",
+            "description": "Advanced AI-driven advisory tool with predictions and price alerts based on funnAI on-chain data. Built using CaffeineAI.",
+            "thumbnail": "https://res.cloudinary.com/dv9bzxyga/image/upload/v1756585102/phoenix_icp_mrtrkb.png",
+            "logo": "https://res.cloudinary.com/dv9bzxyga/image/upload/v1756585091/Oracle_aki3s5.png",
+            "creator_openchat": "@phoenix_icp33",
+            "creator_x": "@phoenix_icp",
+            "featured": true
+        },
+        {
+            "name": "Flapp-AI",
+            "url": "https://flappai-29d.caffeine.xyz/",
+            "description": "Flapp-AI is a fun, arcade style mobile/desktop game built for the funnAI community. Players take control of a parrot and avoid obstacles in space while competing for the highest score. PLayers can choose different characters, including Aira the parrot herself who has her own personal map where she goes mining in a spiky cave for even more fun. The game has mining themes to fit funnAI's identity and its fun gameplay encourages players to compete for the highest spot on the leaderboard. It's like Flappy Bird but even better; also the funnAI logo is included in the game and clicking on it will take you to the website.",
+            "thumbnail": "https://drive.google.com/file/d/1X_XuTBKRR1LaAAr9jRcXM2Ewbtl9pM1P/view?usp=sharing",
+            "logo": "https://drive.google.com/file/d/1lNuuhfY7hEenbQf56040SZwYKhCwIzLf/view?usp=sharing",
+            "creator_openchat": "@bavier",
+            "creator_x": "@Bavunda",
+            "featured": true
+        },
+        {
+            "name": "🦜 Angry Aira 🪙 XTC Blaster",
+            "url": "https://angry-aira-nyn.caffeine.xyz/",
+            "description": "A 2D physics-based game inspired by Angry Birds where players launch XTC coins from a slingshot to destroy structures and defeat enemies. Features a complete game experience with menus, level progression, scoring system, and enhanced visual effects.",
+            "thumbnail": "https://i.ibb.co/B5NHW2r3/angry-aira-nyn-caffeine-xyz.png",
+            "logo": "https://i.ibb.co/B5NHW2r3/angry-aira-nyn-caffeine-xyz.png",
+            "creator_openchat": "@cryptodicted",
+            "creator_x": "@cryptodicted",
+            "featured": true
+        },
+        {
+            "name": "FUNNAI Mint Status & Explorer",
+            "url": "https://funnai-mint-z20.caffeine.xyz/",
+            "description": "FUNNAI Mint Status & Explorer displays the minting activity of FUNNAI tokens over the past 6 hours, showing up to 250 mint transactions. Users can also search by Principal ID to check the latest FUNNAI token balance.",
+            "thumbnail": "https://raw.githubusercontent.com/tagoso/asset/628711aa3bb5c1db95d99fc704eb40a7f6302175/CleanShot%202568-09-01%20at%2013.11.42%402x.png",
+            "logo": "https://raw.githubusercontent.com/tagoso/asset/refs/heads/main/CleanShot%202568-09-01%20at%2013.12.14%402x.png",
+            "creator_openchat": "@tagoso",
+            "creator_x": "@tagoso",
+            "featured": false
         }
     ]
-
 }
